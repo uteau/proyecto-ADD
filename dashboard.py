@@ -6,6 +6,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import os
 
+# python -m streamlit run dashboard.py   
+
 # ---------------------------------------------------------
 # 1. Cargar todos los datasets
 # ---------------------------------------------------------
