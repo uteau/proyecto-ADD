@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import os
 
+# Para ver dashboard ingresar el siguiente comando
 # python -m streamlit run dashboard.py   
 
 # ---------------------------------------------------------
